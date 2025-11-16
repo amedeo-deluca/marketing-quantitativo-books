@@ -1,6 +1,6 @@
 # PMI Italiane, Innovazione Digitalizzazione, AI, Internazionalizzazione- Strategie di Mercato. 
 
-Questa seconda edizione del libro **PMI Italiane** approfondisce i temi legati alla gestione, all’innovazione e alla competitività delle piccole e medie imprese in Italia.  
+Questa Seconda Edizione ristrutturata e ampliata del libro **PMI Italiane, Innovazione Digitalizzazione, AI, Internazionalizzazione- Strategie di Mercato** (anno 2025) approfondisce i temi legati alla gestione, all’innovazione e alla competitività delle piccole e medie imprese in Italia.  
 Il testo analizza casi concreti, strategie di digitalizzazione e strumenti di business analytics applicati al contesto delle PMI.
 
 ---
