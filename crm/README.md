@@ -29,7 +29,7 @@ Il testo approfondisce l'integrazione tra Customer Relationship Management, Mach
 ---
 
 ## 🔎 Risorse aggiuntive
-- [Sito ufficiale](https://tuosito.com)
+- [Sito ufficiale][(https://tuosito.com)](https://sites.google.com/view/marketinglibriecontributidiame/home-page)
 - [Materiali di supporto](https://link-materiali.com)
 
 ---
