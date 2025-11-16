@@ -1,6 +1,6 @@
 # CRM - Customer Relationship Management per la Redditività dell'Impresa, Intelligenza Artificiale Applicata
 
-Questa è la **seconda edizione ampliata** del libro dedicato al CRM e all'Intelligenza Artificiale, Anno 2025. 
+Questa è la **seconda edizione ampliata** del libro dedicato al CRM e all'Intelligenza Artificiale, Anno 2025 
 Il testo approfondisce l'integrazione tra Customer Relationship Management, Machine Learning e Business Analytics, con esempi pratici e casi aziendali.
 
 
