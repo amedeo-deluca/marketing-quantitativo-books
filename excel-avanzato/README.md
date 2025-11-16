@@ -16,7 +16,7 @@ Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e costru
 |----------|------|
 | 1        | LE FUNZIONI RICERCA E RIFERIMENTO |
 | 2        | ANALISI “WHAT IF”: TABELLE DATI DI SENSIBILITA’ |
-| 3        | ALCUNE FUNZIONALITA’ PER  LA GESTIONE DEI DATI  |
+| 3        | ALCUNE FUNZIONALITA’ PER  LA GESTIONE DEI DATI - Tabelle Pivot |
 | 4        | ANALISI DI SIMULAZIONE |
 | 5        | PREVISIONI |
 | 6        | MACRO |
