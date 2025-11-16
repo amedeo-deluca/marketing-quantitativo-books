@@ -4,30 +4,22 @@ Questa è la **seconda edizione** del libro dedicato al CRM e all'Intelligenza A
 Il testo approfondisce l'integrazione tra Customer Relationship Management, Machine Learning e Business Analytics, con esempi pratici e casi aziendali.
 
 
-
-## 📑 Capitoli principali
-1. Introduzione al CRM
-2. Machine Learning applicato
-3. Business Analytics
-4. Conclusioni e prospettive future
-
-
 ## 📂 Accesso al libro
 - [Versione HTML](https://store.youcanprint.it/crm-customer-relationship-management/b/9697de50-aac2-5b1b-adb7-395bb83b2f8c)
 - [Versione PDF][./nomefi(le.pdf)  <!-- opzionale, se disponibile -->](https://www.amazon.it/s?k=crm+customer+relationship+management+per+la+redditivit%C3%A0+dell%27impresa+-+intelligenza+artificiale+applicata+ebook+amedeo+de+luca&crid=A6B50MSPTC31&sprefix=%2Caps%2C90&ref=nb_sb_ss_recent_1_0_recent)
 
 ---
 
-## 📑 Capitoli principali
+## 📑 Parti del Libro
 | Capitolo | Tema |
 |----------|------|
 | Parte I  | Big data, Data mining, Crm e Valore del cliente |
 | Parte II |  Scelta del mercato obiettivo |
 | Parte III| Innovazione di prodotto e customer satisfaction |
 | Parte IV | Promozione e cross-selling |
-| Parte V  | Predizione dei clienti a rischio di abbandono con la churn analysis
-| Parte VI | Risk management
-| Appendice|Big Data nelle Pmi per la redditività
+| Parte V  | Predizione dei clienti a rischio di abbandono con la churn analysis|
+| Parte VI | Risk management|
+| Appendice|Big Data nelle Pmi per la redditività|
 ---
 
 ## 🔎 Risorse aggiuntive
