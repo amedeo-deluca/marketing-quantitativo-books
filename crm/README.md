@@ -1,6 +1,6 @@
 # CRM - Customer Relationship Management per la Redditività dell'Impresa, Intelligenza Artificiale Applicata
 
-Questa è la **seconda edizione ampliata** (anno 2025) del libro dedicato al CRM e all'Intelligenza Artificiale.
+**Seconda edizione ampliata** (anno 2025) del libro dedicato al CRM e all'Intelligenza Artificiale.
 Il testo approfondisce l'integrazione tra Customer Relationship Management, Machine Learning e Business Analytics, con esempi pratici e casi aziendali.
 
  
@@ -11,14 +11,14 @@ Il testo approfondisce l'integrazione tra Customer Relationship Management, Mach
 ---
 
 ## 📑 Parti del Libro
-| Capitolo | Tema |
-|----------|------|
-| Parte I  | Big data, Data mining, Crm e Valore del cliente |
-| Parte II |  Scelta del mercato obiettivo |
-| Parte III| Innovazione di prodotto e customer satisfaction |
-| Parte IV | Promozione e cross-selling |
-| Parte V  | Predizione dei clienti a rischio di abbandono con la churn analysis|
-| Parte VI | Risk management|
+| Parti    | Argomenti |
+|----------|-----------|
+| I        | Big data, Data mining, Crm e Valore del cliente |
+| II       |  Scelta del mercato obiettivo |
+| III      | Innovazione di prodotto e customer satisfaction |
+| IV       | Promozione e cross-selling |
+| V        | Predizione dei clienti a rischio di abbandono con la churn analysis|
+| VI       | Risk management|
 | Appendice|Big Data nelle Pmi per la redditività|
 ---
 
