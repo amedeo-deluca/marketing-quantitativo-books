@@ -22,12 +22,12 @@ Il testo approfondisce l'integrazione tra Customer Relationship Management, Mach
 | Capitolo | Tema |
 |----------|------|
 | Parte I  | Big data, Data mining, Crm e Valore del cliente |
-| Parte II   Scelta del mercato obiettivo |
+| Parte II |  Scelta del mercato obiettivo |
 | Parte III| Innovazione di prodotto e customer satisfaction |
 | Parte IV | Promozione e cross-selling |
- Parte V    Predizione dei clienti a rischio di abbandono con la churn analysis
- Parte VI   Risk management
- Appendice  Big Data nelle Pmi per la redditività
+| Parte V  | Predizione dei clienti a rischio di abbandono con la churn analysis
+| Parte VI | Risk management
+| Appendice|Big Data nelle Pmi per la redditività
 ---
 
 ## 🔎 Risorse aggiuntive
