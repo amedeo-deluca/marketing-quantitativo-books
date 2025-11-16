@@ -6,7 +6,7 @@ Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e costru
 ---
 
 ## 📂 Accesso al libro
-- Versione HTML
+- Versione HTML(./excel-avanzato.html)
 - [Versione PDF] https://store.youcanprint.it/excel-livello-avanzato-analisi-dei-dati/b/c7b3c719-db97-5d9e-bd5d-f20bbdb081b0 (https://store.youcanprint.it/excel-livello-avanzato/b/2443973d-ab49-5610-b7a5-d4cf99997067)
 
 ---
