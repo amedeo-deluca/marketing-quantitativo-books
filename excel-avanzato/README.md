@@ -1,6 +1,6 @@
-# Excel Avanzato – Edizione aggiornata
+# Excel Livello Avanzato – Analisi dei Dati
 
-Questa edizione del libro **Excel Avanzato** è dedicata a professionisti e studenti che vogliono sfruttare al massimo le potenzialità di Excel.  
+Questo libro **Excel Livello Avanzato** è dedicata a Manager, OPerativi, Professionisti e Studenti che vogliono sfruttare al massimo livello le potenzialità di Excel.  
 Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e automazione con macro e VBA.
 
 ---
