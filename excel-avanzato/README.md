@@ -30,7 +30,4 @@ Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e automa
 ---
 
 ## ✍️ Note editoriali
-Questa edizione è stata aggiornata con:
-- Nuovi esempi pratici su dataset aziendali
-- Approfondimenti su Power Query e Power Pivot
-- Miglioramenti nella struttura e leggibilitàscheda del libro Excel avanzato
+
