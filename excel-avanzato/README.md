@@ -24,7 +24,7 @@ Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e automa
 ---
 
 ## 🔎 Risorse aggiuntive
-- [Materiali di supporto](https://link-materiali.com)
+- [Sito ufficiale][(https://link-materiali.com)](https://sites.google.com/view/marketinglibriecontributidiame/home-page)
 - [Approfondimenti su Excel](https://support.microsoft.com/excel)
 
 ---
