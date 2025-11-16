@@ -1,4 +1,4 @@
-# Biblioteca Digitale di Amedeo
+# Biblioteca Digitale di Amedeo De Luca
 
 Benvenuti nella mia biblioteca digitale dedicata a MANAGEMENT MODELS & MARKETING QUANTITATIVO, BUSINESS ANALYTICS e AI:   1. Analisi Dati - 2. Big data analytics - 3. Data Mining - 4. Business Intelligence - 5. Machine Learning -  6. Intelligenza Artificiale Marketing -  7. IA Predittiva - 8. Risk Management - 9. Excel per il Decision making - 10. CRM – 11. Ricerche e Analisi di mercato - 12. Controllo statistico Qualità - 13. Modelli di Management e di ottimizzazione - 14. Modelli di Marketing Quantitativo - 15. Modelli econometrici - 16. Direct Marketing Interattivo - 17. Modelli di Customer Satisfaction - 18.Modelli di Conjoint Analysis - 19. Programmazione ed Analisi degli Esperimenti - 20. Modello misurazione Efficacia Pubblicità - 21. Innovazione e Internazionalizzazione PMI – 22. Marketing bancario
 
