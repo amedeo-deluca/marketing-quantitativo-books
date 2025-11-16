@@ -24,7 +24,7 @@ Qui troverete i miei libri, articoli e materiali accademici, raccolti e organizz
 ## 👤 Autore
 **Amedeo** – Accademico (Università Cattolica del Sacro Cuore di Milano), Data Scientist; Autore; Editor.  
 Esperto di Modelli statistici applicati al Management e Marketing, Analisi di mercato, Analisi quantitativa dei dati, Business Analytics, AI Marketing.  
-- 🌍 [Sito personale](https://tuosito.it)  
+- 🌍 [Sito personale][(https://tuosito.it)](https://sites.google.com/view/marketinglibriecontributidiame/home-page)  
 - 📧 Email: amedeo.deluca@unicatt.it  
 - 🔗 LinkedIn: (https://www.linkedin.com/in/amedeo-de-luca-85973517/?originalSubdomain=it)
   
