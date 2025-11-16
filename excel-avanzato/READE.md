@@ -3,7 +3,7 @@
 Questo libro **Excel Livello Avanzato** è dedicata a Manager, OPerativi, Professionisti e Studenti che vogliono sfruttare al massimo livello le potenzialità di Excel.  
 Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e costruzione di macro.
 
----
+--- 
 
 ## 📂 Accesso al libro
 - [Versione HTML](./excel-avanzato.html)
