@@ -3,12 +3,7 @@
 Questa è la **seconda edizione** del libro dedicato al CRM e all'Intelligenza Artificiale.  
 Il testo approfondisce l'integrazione tra Customer Relationship Management, Machine Learning e Business Analytics, con esempi pratici e casi aziendali.
 
----
 
-## 📂 Accesso al libro
-- [Versione HTML][(./crm.html)](https://store.youcanprint.it/crm-customer-relationship-management/b/9697de50-aac2-5b1b-adb7-395bb83b2f8c)
-
----
 
 ## 📑 Capitoli principali
 1. Introduzione al CRM
