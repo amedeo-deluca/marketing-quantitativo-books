@@ -17,7 +17,7 @@ Qui troverete i miei libri, articoli e materiali accademici, raccolti e organizz
 - Potete consultare i libri direttamente da questa repository.
 - Versioni HTML/PDF sono disponibili nelle rispettive cartelle.
 - Se il sito è pubblicato con **GitHub Pages**, accedete da:  
-  👉 [https://username.github.io/repository](https://username.github.io/repository)
+  👉 (https://github.com/amedeo-deluca/marketing-quantitativo-books)
 
 ---
 
