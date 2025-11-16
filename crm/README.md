@@ -16,16 +16,6 @@ Il testo approfondisce l'integrazione tra Customer Relationship Management, Mach
 3. Business Analytics
 4. Conclusioni e prospettive future
 
-5. 
-SCHEDA EDITORIALE GENERICA PER OGNI LIBRO
-
-markdown
-# Titolo del libro – Edizione
-
-Questa è la **seconda edizione** del libro dedicato a [tema del libro].  
-Il testo approfondisce [argomento principale], con esempi pratici, casi aziendali e prospettive future.
-
----
 
 ## 📂 Accesso al libro
 - [Versione HTML](./nomefile.html)
