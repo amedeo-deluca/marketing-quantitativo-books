@@ -1,13 +1,13 @@
    
-# Excel Avanzato – Edizione a ggiornata
+# Excel Avanzato – Edizione a ggiornata    
 
 Questa edizione del libro **Excel Avanzato** è dedicata a professionisti e studenti che vogliono sfruttare al massimo le potenzialità di Excel.  
 Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e automazione con macro e VBA.
 
----
+
 
 ## 📂 Accesso al libro
-- [Versione HTML](./excel-avanzato.html)
+- [Versione HTML](./excel-avanzato.html)   
 - [Versione PDF](./excel-avanzato.pdf)  <!-- opzionale, se disponibile -->
 
 ---
