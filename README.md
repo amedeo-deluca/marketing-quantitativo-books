@@ -6,11 +6,12 @@ Qui troverete i miei libri, articoli e materiali accademici, raccolti e organizz
 
 ---
 
-## 📚 Indice dei contenuti
-- [Libro 1: CRM e AI](./crm/README.md)
-- [Libro 2: Business Analytics](./libro2/README.md)
-- [Libro 3: Statistica Applicata](./libro3/README.md)
 
+## 📚 Libri disponibili
+
+- [CRM e AI](./crm/README.md)
+- [Excel Avanzato](./excel-avanzato/README.md)
+- [PMI Italiane](./pmi-italiane/README.md)
 ---
 
 ## 🌐 Navigazione
