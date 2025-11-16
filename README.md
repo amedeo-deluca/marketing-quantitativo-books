@@ -22,12 +22,12 @@ Qui troverete i miei libri, articoli e materiali accademici, raccolti e organizz
 ---
 
 ## 👤 Autore
-**Amedeo** – Autore e accademico, Università Cattolica di Milano.  
-Esperto di CRM, AI e Business Analytics.  
+**Amedeo** – Accademico (Università Cattolica del Sacro Cuore di Milano), Data Scientist; Autore; Editor.  
+Esperto di Modelli statistici applicati al Management e Marketing, Analisi di mercato, Analisi quantitativa dei dati, Business Analytics, AI Marketing.  
 - 🌍 [Sito personale](https://tuosito.it)  
-- 📧 Email: tuemail@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/tuoprofilo](https://linkedin.com/in/tuoprofilo)
-
+- 📧 Email: amedeo.deluca@unicatt.it  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/amedeo-de-luca-85973517/?originalSubdomain=it)
+  
 ---
 
 ## ⚖️ Licenza
