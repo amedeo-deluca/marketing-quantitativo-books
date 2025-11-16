@@ -24,9 +24,8 @@ Il testo analizza casi concreti, strategie di digitalizzazione e strumenti di bu
 ---
 
 ## 🔎 Risorse aggiuntive
-- [Materiali di supporto](https://link-materiali.com)
-- [Approfondimenti accademici](https://link-approfondimenti.com)
-
+- [Sito ufficiale] https://sites.google.com/view/marketinglibriecontributidiame/home-page
+  - [Approfondimenti accademici](https://link-approfondimenti.com)
 ---
 
 ## ✍️ Note editoriali
