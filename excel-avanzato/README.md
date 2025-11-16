@@ -1,7 +1,7 @@
 # Excel Livello Avanzato – Analisi dei Dati
 
 Questo libro **Excel Livello Avanzato** è dedicata a Manager, OPerativi, Professionisti e Studenti che vogliono sfruttare al massimo livello le potenzialità di Excel.  
-Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e automazione con macro e VBA.
+Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e costruzione di macro.
 
 ---
 
@@ -11,15 +11,15 @@ Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e automa
 
 ---
 
-## 📑 Capitoli principali
-| Capitolo | Tema |
+## 📑 Parti del Libro
+| Parte    | Argomento |
 |----------|------|
-| 1        | Funzioni avanzate di Excel |
-| 2        | Tabelle pivot e analisi dati |
-| 3        | Strumenti di simulazione e scenari |
-| 4        | Automazione con macro |
-| 5        | Introduzione a VBA |
-| 6        | Applicazioni pratiche |
+| 1        | LE FUNZIONI RICERCA E RIFERIMENTO |
+| 2        | ANALISI “WHAT IF”: TABELLE DATI DI SENSIBILITA’ |
+| 3        | ALCUNE FUNZIONALITA’ PER  LA GESTIONE DEI DATI  |
+| 4        | ANALISI DI SIMULAZIONE |
+| 5        | PREVISIONI |
+| 6        | MACRO |
 
 ---
 
