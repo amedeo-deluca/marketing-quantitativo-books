@@ -12,14 +12,14 @@ Il testo analizza casi concreti, strategie di digitalizzazione e strumenti di bu
 ---
 
 ## 📑 Capitoli principali
-| Capitolo | Tema |
+| Parti | Argomenti |
 |----------|------|
-| 1        | Introduzione alle PMI italiane |
-| 2        | Innovazione e digitalizzazione |
-| 3        | Strategie di crescita |
-| 4        | Business Analytics per le PMI |
-| 5        | Casi studio e applicazioni |
-| 6        | Conclusioni e prospettive future |
+| 1        | INNOVAZIONE, DIGITALE, INDUSTRIA 4.0 E 5.0 |
+| 2        | COMPETITIVITÀ E CRM	 |
+| 3        | STRATEGIE DI INTERNAZIONALIZZAZIONE |
+| 4        | PIANIFICAZIONE STRATEGICA E BUDGETING |
+| 5        | PROSPETTIVE DI SVILUPPO E TRASFORMAZIONE STRATEGICA DELLE PMI ITALIANE NELL’ERA DELL’IA |
+
 
 ---
 
