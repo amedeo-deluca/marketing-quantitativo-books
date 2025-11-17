@@ -31,5 +31,5 @@ Il testo approfondisce funzioni avanzate, strumenti di analisi dei dati e costru
 
 ## ✍️ Note editoriali
 ## 📊 Accesso alla pagina web
-👉 [Apri la scheda completa su GitHub Pages](https://amedeo-deluca.github.io/marketing-quantitativo-books/excel-avanzato/excel-avanzato.html)
+👉 [Apri la scheda completa](https://amedeo-deluca.github.io/marketing-quantitativo-books/excel-avanzato/excel-avanzato.html)
 
