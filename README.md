@@ -1,36 +1,52 @@
-# Biblioteca Digitale di Amedeo De Luca
+# 📘 EXCEL LIVELLO INTERMEDIO – Come Elaborare i Dati
 
-Benvenuti nella mia biblioteca digitale dedicata a MANAGEMENT MODELS & MARKETING QUANTITATIVO, BUSINESS ANALYTICS e AI:   1. Analisi Dati - 2. Big data analytics - 3. Data Mining - 4. Business Intelligence - 5. Machine Learning -  6. Intelligenza Artificiale Marketing -  7. IA Predittiva - 8. Risk Management - 9. Excel per il Decision making - 10. CRM – 11. Ricerche e Analisi di mercato - 12. Controllo statistico Qualità - 13. Modelli di Management e di ottimizzazione - 14. Modelli di Marketing Quantitativo - 15. Modelli econometrici - 16. Direct Marketing Interattivo - 17. Modelli di Customer Satisfaction - 18.Modelli di Conjoint Analysis - 19. Programmazione ed Analisi degli Esperimenti - 20. Modello misurazione Efficacia Pubblicità - 21. Innovazione e Internazionalizzazione PMI – 22. Marketing bancario
- 
-Qui troverete i miei libri, articoli e materiali accademici, raccolti e organizzati per una consultazione semplice.
-
----
-
-
-## 📚 Libri disponibili
-
-- [CRM e AI](./crm/README.md)
-- [Excel Avanzato](./excel-avanzato/README.md)
-- [PMI Italiane](./pmi-italiane/README.md)
----
-
-## 🌐 Navigazione
-- Potete consultare i libri direttamente da questa repository.
-- Versioni HTML/PDF sono disponibili nelle rispettive cartelle.
-- Se il sito è pubblicato con **GitHub Pages**, accedete da:  
-  👉 (https://github.com/amedeo-deluca/marketing-quantitativo-books)
+**Autore:** Amedeo De Luca  
+**Editore:** Youcanprint  
+**Anno:** 2019  
+**Pagine:** 160  
+**ISBN:** 978-88-31639-42-2  
 
 ---
 
-## 👤 Autore
-**Amedeo** – Accademico (Università Cattolica del Sacro Cuore di Milano), Data Scientist; Autore; Editor.  
-Esperto di Modelli statistici applicati al Management e Marketing, Analisi di mercato, Analisi quantitativa dei dati, Business Analytics, AI Marketing.  
-- 🌍 [Sito personale][(https://tuosito.it)](https://sites.google.com/view/marketinglibriecontributidiame/home-page)  
-- 📧 Email: amedeo.deluca@unicatt.it  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/amedeo-de-luca-85973517/?originalSubdomain=it)
-  
+## ✅ Informazioni sull’autore
+Amedeo De Luca è tra i massimi esperti italiani di analisi dei dati e metodi di Big Data-CRM, punto di riferimento nel mondo accademico e aziendale. Attualmente è impegnato nell’area dell’Intelligenza Artificiale (di cui è un precursore) applicate ai modelli di Management aziendale. Libero docente di Analisi di mercato  e di Analisi Dati presso l’Università Cattolica di Milano (oltre 40 anni di attività didattica e di ricerca), è stato professore a contratto di Analisi di mercato quantitative all’Università Milano-Bicocca. Autore di oltre 30 volumi scientifici, su metodi  modelli statistici (molti originali) applicati a temi di mercato e di management science, e di  un imponente numero di articoli scientifici di rilevanza internazionale. È docente in master e business school.
 ---
 
-## ⚖️ Licenza
-Tutti i contenuti sono protetti da copyright.  
-È vietata la riproduzione senza autorizzazione.
+## ✅ Descrizione dell’opera
+“EXCEL LIVELLO INTERMEDIO – Come Elaborare i Dati” è un manuale operativo che guida l’utente nell’uso evoluto di Excel per l’elaborazione e l’analisi dei dati. Si distingue per chiarezza espositiva, approccio dinamico e innovativo, con funzioni illustrate attraverso un continuum di immagini che simulano un vero “video Excel”. Ideale per chi vuole trasformare dati grezzi in informazioni, decisioni e profitto.
+
+---
+
+## ✅ Contenuti principali
+- Ordinamento e filtraggio avanzato dei dati
+- Funzioni logiche (SE, E, O) e di ricerca (CERCA.VERT, CERCA.ORIZZ)
+- Grafici tradizionali e Sparkline
+- Tabelle Pivot
+- Analisi “What If” e tabelle di sensibilità
+- Introduzione alle Macro
+
+---
+
+## ✅ Punti di forza
+- Innovativo approccio visuale e operativo
+- Applicazioni pratiche per l’azienda
+- Linguaggio chiaro e rigoroso
+- Perfetto per corsi di formazione e autoapprendimento
+
+---
+
+## 🔑 Parole chiave
+Excel intermedio, analisi dati, funzioni logiche, CERCA.VERT, tabelle pivot, grafici, macro, business intelligence, formazione aziendale, manuale operativo.
+
+---
+
+## 📌 Dettagli editoriali
+- Formato: Cartaceo / Digitale
+- Pagine: 160
+- Editore: Youcanprint
+- ISBN: 978-88-31639-42-2
+
+---
+
+## 🔗 Link di acquisto
+[Acquista su Youcanprint](https://www.youcanprint.it)
