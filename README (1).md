@@ -9,7 +9,7 @@
 ---
 
 ## ✅ Informazioni sull’autore
-Amedeo De Luca è tra i massimi esperti italiani di analisi dei dati e metodi di Big Data-CRM, punto di riferimento nel mondo accademico e aziendale. Libero docente di Analisi di mercato presso l’Università Cattolica di Milano (oltre 35 anni di attività didattica e di ricerca) e professore a contratto di Analisi di mercato quantitative all’Università Milano-Bicocca. Autore di oltre 25 volumi e numerosi articoli scientifici, è consulente aziendale e docente in master e business school.
+Amedeo De Luca è tra i massimi esperti di Analisi dei Dati e di Metodi di Management Science; è un punto di riferimento nel mondo accademico e aziendale. Attualmente è impegnato nell’area dell’Intelligenza Artificiale (di cui è un precursore) applicata ai modelli di Management aziendale. Libero docente di Analisi di mercato  e di Analisi Dati presso l’Università Cattolica di Milano (dove svolge da oltre 40 anni attività didattica e di ricerca). E' stato professore a contratto di Analisi di mercato quantitative all’Università Milano-Bicocca, oltre che docente in altre università italiane e straniere. Autore di oltre 30 volumi scientifici (molti sono dei best sellers, altri sono di carattere seminale), su metodi  modelli statistici applicati a temi di mercato e di management science, e di  un imponente numero di articoli scientifici di rilevanza internazionale. È anche docente in Master dell'Università Cattolica di Milano e in Business school.
 
 ---
 
@@ -24,6 +24,9 @@ Amedeo De Luca è tra i massimi esperti italiani di analisi dei dati e metodi di
 - Grafici tradizionali e Sparkline
 - Tabelle Pivot
 - Analisi “What If” e tabelle di sensibilità
+- Simulazioni
+- Previsione
+- Risolutore excel
 - Introduzione alle Macro
 
 ---
