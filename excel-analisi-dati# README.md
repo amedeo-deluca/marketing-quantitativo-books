@@ -7,7 +7,7 @@
 - **Anno:** 2024  
 - **Pagine:** 193  
 - **ISBN:** 979-12-22768-51-9  
-
+  
 ---
 
 ### Descrizione dell’opera
@@ -88,6 +88,7 @@ Docente e consulente con oltre 40 anni di attività accademica e professionale, 
 - **Utilizzo consigliato:** corsi aziendali, formazione universitaria, progetti di marketing data‑driven  
 
 - **Formato:** cartaceo e digitale  
+
 
 
 
