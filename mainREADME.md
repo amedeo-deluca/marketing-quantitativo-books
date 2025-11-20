@@ -1,5 +1,0 @@
-Catalogo dei Libri di Amedeo De Luca
-    
-
-Analisi Dati  - 2. Analisi dei big data - 3. Data mining - 4. Business Intelligence - 5. Apprendimento automatico - 6. Marketing Artificiale Intelligenza - 7. IA Predittiva - 8. Gestione del rischio - 9. Excel per il Decision making - 10. CRM – 11. Ricerche e Analisi di mercato - 12. Controllo statistico Qualità - 13. Modelli di Management e di ottimizzazione - 14. Modelli di Marketing Quantitativo - 15. Modelli econometrici - 16. Marketing Diretto Interattivo - 17. Modelli di Customer Satisfaction - 18. Modelli di Conjoint Analysis - 19. Programmazione ed Analisi degli Esperimenti - 20. Modello misurazione Efficacia Pubblicità - 21. Innovazione e Internazionalizzazione PMI – 22. Marketing bancario
-
