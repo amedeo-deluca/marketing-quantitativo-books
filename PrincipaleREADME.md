@@ -1,7 +1,7 @@
 Catalogo dei Libri di Amedeo De Luca
 # **La Mia Biblioteca Digitale**
 
-Benvenuto nella mia raccolta di volumi dedicati a **Metodi e Modelli statistico-quantitativi applicati a:Management Science, Management aziendale, Analisi Dati, Business Analytics, Biga Data, Intelligenza Artificiale**.  
+Benvenuto nella mia raccolta di volumi dedicati a **Metodi e Modelli statistico-quantitativi, applicati a: Management Science, Management aziendale, Analisi Dati, Business Analytics, Biga Data, Intelligenza Artificiale**.  
 Questa repository è concepita per offrire un accesso chiaro e professionale ai contenuti, con particolare attenzione alla **qualità editoriale**, alla **leggibilità** e alla **fruizione digitale**.
 
 ---
