@@ -77,7 +77,7 @@ Link di acquisto
 
 ---
 
-### Crediti e profilo autore
+### Crediti e profilo Autore
 Amedeo De Luca è riconosciuto come il massimo studioso ed esperto di Analisi dei Dati per il Marketing in Italia.  
 Docente e consulente con oltre 40 anni di attività accademica e professionale, autore di 35 libri e di un imponente numero di articoli scientifici di rilevanza internazionale, keynote speaker e guest editor nella Rivista di Statistica Applicata.  
 
@@ -88,4 +88,5 @@ Docente e consulente con oltre 40 anni di attività accademica e professionale, 
 - **Utilizzo consigliato:** corsi aziendali, formazione universitaria, progetti di marketing data‑driven  
 
 - **Formato:** cartaceo e digitale  
+
 
