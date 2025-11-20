@@ -1,4 +1,4 @@
-# EXCEL per ANALISI DATI nel MARKETING Applicato
+# EXCEL per ANALISI DATI nel MARKETING Applicato 
 ## Intelligenza Artificiale nel Marketing — 2a edizione ampliata
 
 ### Dati editoriali
@@ -88,6 +88,7 @@ Docente e consulente con oltre 40 anni di attività accademica e professionale, 
 - **Utilizzo consigliato:** corsi aziendali, formazione universitaria, progetti di marketing data‑driven  
 
 - **Formato:** cartaceo e digitale  
+
 
 
 
