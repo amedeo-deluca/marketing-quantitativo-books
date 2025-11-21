@@ -1,35 +1,67 @@
-Catalogo dei Libri di Amedeo De Luca
-# **La Mia Biblioteca Digitale**
+<!DOCTYPE html>  
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amedeo De Luca – Marketing Quantitativo & Data Science</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #fafafa;
+        }
+        h1 {
+            color: #003366;
+        }
+        ul {
+            line-height: 1.7;
+        }
+        a {
+            color: #0055aa;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
-Benvenuto nella mia raccolta di volumi dedicati a **Metodi e Modelli statistico-quantitativi, applicati a: Management Science, Management aziendale, Analisi Dati, Business Analytics, Big Data, Intelligenza Artificiale nel Marketing**.  
-Questa repository è concepita per offrire un accesso chiaro e professionale ai contenuti, con particolare attenzione alla **qualità editoriale**, alla **leggibilità** e alla **fruizione digitale**.
+<h1>Amedeo De Luca – Marketing Quantitativo & Data Science</h1>
+<p>Catalogo dei libri disponibili in formato digitale.</p>
 
----
+<h2>Libri disponibili</h2>
+<ul>
+    <li><a href="https://github.com/amedeo-deluca/marketing-quantitativo-books/tree/main/pmi-italiane-innovazione-digitalizzazione-ai-internazionalizzazione" target="_blank">
+        PMI italiane: Innovazione, Digitalizzazione, AI, Internazionalizzazione – Strategie di Mercato
+    </a></li>
 
-## 📚 Contenuti
-- **Volumi principali**: testi accademici e divulgativi
-- **Materiali di supporto**: presentazioni, articoli e note tecniche
-- **Aggiornamenti**: nuove edizioni e revisioni periodiche
+    <li><a href="https://github.com/amedeo-deluca/marketing-quantitativo-books/tree/main/excel-analisi-dati-marketing-applicato" target="_blank">
+        Excel per Analisi Dati nel Marketing Applicato
+    </a></li>
 
----
+    <li><a href="https://github.com/amedeo-deluca/marketing-quantitativo-books/tree/main/excel-corso-base-manuale-operativo" target="_blank">
+        Excel – Corso Base (Manuale Operativo)
+    </a></li>
 
-## 🎯 Obiettivi
-- Diffondere conoscenza in modo accessibile e strutturato  
-- Favorire l’interazione tra professionisti e piattaforme AI  
-- Garantire uniformità e precisione editoriale  
+    <li><a href="https://github.com/amedeo-deluca/marketing-quantitativo-books/tree/main/excel-livello-intermedio-elaborare-i-dati" target="_blank">
+        Excel – Livello Intermedio: Come Elaborare i Dati
+    </a></li>
 
----
+    <li><a href="https://github.com/amedeo-deluca/marketing-quantitativo-books/tree/main/excel-livello-avanzato-analisi-dati" target="_blank">
+        Excel – Livello Avanzato: Analisi dei Dati
+    </a></li>
 
-## 🌐 Pubblicazione
-I contenuti sono disponibili anche tramite **GitHub Pages**, per una fruizione immediata e ottimizzata.  
-Ogni volume è presentato con cura editoriale, per assicurare un’esperienza di lettura elegante e coerente.
+    <li><a href="https://github.com/amedeo-deluca/marketing-quantitativo-books/tree/main/crm-customer-relationship-management-per-redditivita-impresa" target="_blank">
+        CRM – Customer Relationship Management per la Redditività dell’Impresa (con AI)
+    </a></li>
+</ul>
 
----
+<footer>
+    <p style="margin-top:40px; font-size:0.9em; color:#555;">
+        © 2025 Amedeo De Luca – Tutti i diritti riservati
+    </p>
+</footer>
 
-## ✨ Note di stile
-- Uso di **grassetto** per concetti chiave  
-- Inserimento di **emoji** per rendere la lettura più visiva e moderna  
-- Struttura modulare con sezioni e separatori per dare ritmo e chiarezza  
-- Tono professionale ma coinvolgente, con enfasi sugli obiettivi e sulla missione editoriale
-  
-1. Analisi Dati - 2. Big data analytics - 3. Data Mining - 4. Business Intelligence - 5. Machine Learning -  6. Intelligenza Artificiale Marketing -  7. IA Predittiva - 8. Risk Management - 9. Excel per il Decision making - 10. CRM – 11. Ricerche e Analisi di mercato - 12. Controllo statistico Qualità - 13. Modelli di Management e di ottimizzazione - 14. Modelli di Marketing Quantitativo - 15. Modelli econometrici - 16. Direct Marketing Interattivo - 17. Modelli di Customer Satisfaction - 18.Modelli di Conjoint Analysis - 19. Programmazione ed Analisi degli Esperimenti - 20. Modello misurazione Efficacia Pubblicità - 21. Innovazione e Internazionalizzazione PMI – 22. Marketing bancario
+</body>
+</html> Analisi degli Esperimenti - 20. Modello misurazione Efficacia Pubblicità - 21. Innovazione e Internazionalizzazione PMI – 22. Marketing bancario
