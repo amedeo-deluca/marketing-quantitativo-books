@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Indice dei Libri di Amedeo</title>
+  <title>Libri di Amedeo De Luca</title>
   <style>
     body {
       font-family: "Segoe UI", Arial, sans-serif;
@@ -12,65 +12,91 @@
       background: #f4f6f9;
       color: #333;
     }
-    header {
+
+    /* NAVBAR */
+    nav {
       background: #2c3e50;
-      color: #fff;
-      padding: 1.5rem;
+      padding: 1rem;
       text-align: center;
     }
-    header h1 {
-      margin: 0;
-      font-size: 2rem;
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-size: 1rem;
+      font-weight: 500;
     }
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    header {
+      background: #34495e;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+
     main {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
       gap: 1.5rem;
       padding: 2rem;
     }
+
     .card {
       background: #fff;
-      border-radius: 8px;
+      border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
       padding: 1.5rem;
       text-align: center;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      transition: 0.2s ease;
     }
     .card:hover {
       transform: translateY(-5px);
-      box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-    }
-    .card h2 {
-      margin: 0 0 1rem;
-      font-size: 1.1rem;
-      color: #2c3e50;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.15);
     }
     .card img {
-      width: 120px;
-      display: block;
-      margin: 0 auto 1rem;
+      width: 130px;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+    }
+    .card h2 {
+      font-size: 1.1rem;
+      color: #2c3e50;
+      margin-bottom: 0.8rem;
     }
     .card a {
       color: #0066cc;
       text-decoration: none;
-      display: block;
+      font-weight: bold;
     }
-    .card a:hover h2 {
+    .card a:hover {
       text-decoration: underline;
     }
+
     footer {
       text-align: center;
-      padding: 1rem;
       background: #2c3e50;
       color: #fff;
-      font-size: 0.9rem;
+      padding: 1rem;
+      margin-top: 2rem;
     }
   </style>
 </head>
+
 <body>
+
+  <!-- NAVBAR -->
+  <nav>
+    <a href="#">Home</a>
+    <a href="https://www.linkedin.com/in/amedeo-de-luca-89162a30/" target="_blank">LinkedIn</a>
+    <a href="mailto:amedeodeluca@libero.it">Contatti</a>
+  </nav>
+
   <header>
-    <h1>Indice dei Libri di Amedeo</h1>
-    <p>Seleziona un titolo per aprire il contenuto</p>
+    <h1>Libri di Amedeo De Luca</h1>
+    <p>Seleziona un titolo per aprire la presentazione</p>
   </header>
 
   <main>
@@ -78,55 +104,56 @@
     <!-- CRM -->
     <div class="card">
       <a href="CRM/index.html">
-        <img src="CRM/copertina_crm.jpg" alt="Copertina CRM">
+        <img src="CRM/copertina_crm.jpg" alt="CRM">
         <h2>CRM e Customer Analytics – Manuale Operativo</h2>
       </a>
     </div>
 
-    <!-- Excel Corso Base -->
+    <!-- EXCEL Analisi Dati -->
+    <div class="card">
+      <a href="Excel-analisi-dati/index.html">
+        <img src="Excel-analisi-dati/copertina-analisi-dati.jpg" alt="Excel Analisi Dati">
+        <h2>EXCEL per Analisi Dati nel Marketing Applicato</h2>
+      </a>
+    </div>
+
+    <!-- EXCEL Avanzato -->
+    <div class="card">
+      <a href="Excel-avanzato/index.html">
+        <img src="Excel-avanzato/copertina-excel-avanzato.jpg" alt="Excel Avanzato">
+        <h2>EXCEL Livello Avanzato – Analisi dei Dati</h2>
+      </a>
+    </div>
+
+    <!-- EXCEL Corso Base -->
     <div class="card">
       <a href="excel-corso-base/index.html">
-        <img src="excel-corso-base/copertina-excel-base.jpg" alt="Copertina Excel Base">
+        <img src="excel-corso-base/copertina-excel-base.jpg" alt="Excel Base">
         <h2>EXCEL Corso Base – Manuale Operativo</h2>
       </a>
     </div>
 
-    <!-- Excel Intermedio -->
+    <!-- EXCEL Intermedio -->
     <div class="card">
-      <a href="excel-intermedio/index.html">
-        <img src="excel-intermedio/copertina-excel-intermedio.jpg" alt="Copertina Excel Intermedio">
+      <a href="Excel-Intermedio/index.html">
+        <img src="Excel-Intermedio/copertina-excel-intermedio.jpg" alt="Excel Intermedio">
         <h2>EXCEL Livello Intermedio – Come Elaborare i Dati</h2>
-      </a>
-    </div>
-
-    <!-- Excel Avanzato -->
-    <div class="card">
-      <a href="excel-avanzato/index.html">
-        <img src="excel-avanzato/copertina-excel-avanzato.jpg" alt="Copertina Excel Avanzato">
-        <h2>EXCEL Livello Avanzato – Analisi dei Dati</h2>
       </a>
     </div>
 
     <!-- PMI Italiane -->
     <div class="card">
-      <a href="pmi-italiane/index.html">
-        <img src="pmi-italiane/copertina-pmi.jpg" alt="Copertina PMI Italiane">
+      <a href="PMI-Italiane/index.html">
+        <img src="PMI-Italiane/copertina-pmi.jpg" alt="PMI Italiane">
         <h2>PMI Italiane – Innovazione, Digitalizzazione, AI, Internazionalizzazione</h2>
-      </a>
-    </div>
-
-    <!-- Excel Analisi Dati -->
-    <div class="card">
-      <a href="excel-analisi-dati/index.html">
-        <img src="excel-analisi-dati/copertina-analisi-dati.jpg" alt="Copertina Analisi Dati">
-        <h2>EXCEL per Analisi Dati nel Marketing Applicato – Manuale Operativo</h2>
       </a>
     </div>
 
   </main>
 
   <footer>
-    © 2025 Amedeo – Tutti i diritti riservati
+    © 2025 Amedeo De Luca – Tutti i diritti riservati
   </footer>
+
 </body>
 </html>
