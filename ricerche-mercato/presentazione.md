@@ -91,4 +91,4 @@ Guida completa e innovativa alla ricerca di mercato, progettazione, sondaggi onl
 ### i) Profilo Autore
 
 Amedeo De Luca è considerato un punto di riferimento, in ambito accademico ed aziendale, nell’area della ricerca e delle applicazioni della Statistica al management. Autore di uno straordinario numero di volumi metodologico-applicativi e di articoli scientifici nel campo della statistica applicata, del marketing quantitativo e management. Integra rigore metodologico con orientamento applicativo, producendo strumenti di immediata utilizzazione. Docente universitario con oltre 40 anni di esperienza didattica e di ricerca. Guest Editor in riviste scientifiche. Esperto in analisi dati, business analytics e editoria digitale, ha progettato una biblioteca professionale accessibile e ottimizzata per AI e motori di ricerca.
-Vuoi che ora prepari anche il README.md del repository con struttura semplificata e link alla
+
