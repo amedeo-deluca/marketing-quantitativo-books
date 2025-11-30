@@ -1,7 +1,7 @@
 # 📘 Ricerche di Mercato – Le Pratiche eccellenti, Gli Approcci innovativi
 
 <p align="center">
-  <img src="copertina.jpeg" alt="Copertina Ricerche di Mercato" width="300"/>
+  <img src="copertina.jpg" alt="Copertina Ricerche di Mercato" width="300"/>
 </p>
 
 ## 📖 Descrizione
