@@ -29,7 +29,7 @@ Questa **Seconda edizione** aggiornata e ampliata guida manager, analisti, profe
 - **Edizione:** Seconda edizione aggiornata e ampliata  
 - **Autore:** Amedeo De Luca  
 - **Editore:** StreetLib  
-- **Anno:** 2025  
+- **Anno:** 2026  
 - **Formato:** eBook  
 - **Pagine:** 200  
 - **ISBN:** 9791223990650  
