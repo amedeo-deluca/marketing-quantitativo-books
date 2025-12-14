@@ -1,233 +1,97 @@
 
-
 <!doctype html>
 <html lang="it">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>BIG DATA ANALYTICS e AI per la PRODUTTIVITÀ AZIENDALE — Seconda edizione aggiornata e ampliata</title>
-
-  <!-- 8) META DESCRIPTION -->
   <meta name="description" content="Guida rigorosa e completa a Big Data &amp; AI per la produttività aziendale, con architetture cloud/lakehouse, ML, IA generativa e Industria 5.0.">
-  <meta name="keywords" content="Big Data, Analytics, Business Intelligence, DSS, Machine Learning, Deep Learning, IA generativa, Data Warehouse, Data Lake, Lakehouse, Cloud, Edge, Streaming, MLOps, Explainable AI, Industria 4.0, Industria 5.0, IoT, Digital Twin, Decision Intelligence, Privacy, GDPR">
-  <meta name="author" content="Amedeo De Luca">
-
-  <!-- Open Graph / Social -->
-  <meta property="og:type" content="book">
-  <meta property="og:title" content="BIG DATA ANALYTICS e AI per la PRODUTTIVITÀ AZIENDALE — Seconda edizione">
-  <meta property="og:description" content="Guida rigorosa e completa a Big Data &amp; AI per la produttività aziendale. Seconda edizione aggiornata e ampliata.">
-  <meta property="og:image" content="assets/copertina.jpg">
-  <meta property="og:url" content="https://www.amazon.it/Big-Data-Analytics-Redditivit%C3%A0-Aziendale-ebook/dp/B0G5M2VH6V">
-
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="BIG DATA ANALYTICS e AI — Seconda edizione">
-  <meta name="twitter:description" content="Guida completa a Big Data &amp; AI per la produttività aziendale.">
-  <meta name="twitter:image" content="assets/copertina.jpg">
-
-  <!-- Stili minimi accessibili -->
   <style>
-    :root { color-scheme: light dark; }
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Noto Sans', Arial, sans-serif; margin: 2rem; line-height: 1.6; }
-    header img { max-width: 100%; height: auto; border-radius: 10px; border: 1px solid rgba(0,0,0,.12); }
-    h1, h2 { line-height: 1.25; }
-    .lead { font-size: 1.05rem; }
-    .meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px,1fr)); gap: .75rem; }
-    .meta div { background: rgba(127,127,127,.08); padding: .9rem; border-radius: 8px; }
-    a.button { display: inline-block; background: #0b5cff; color: #fff; padding: .65rem 1rem; border-radius: 8px; text-decoration: none; }
-    a.button:hover { background: #094bd1; }
-    .small { font-size: .95rem; }
-    footer { margin-top: 2.5rem; font-size: .95rem; color: #666; }
-    .tags { display: flex; flex-wrap: wrap; gap: .4rem; }
-    .tag { background: rgba(11,92,255,.1); color: #0b5cff; padding: .2rem .5rem; border-radius: 999px; font-size: .9rem; }
-    blockquote { margin: 0; padding: .75rem 1rem; border-left: 4px solid #0b5cff; background: rgba(127,127,127,.08); border-radius: 6px; }
-    main { display: grid; gap: 1.25rem; }
-    hr.sep { border: 0; height: 1px; background: rgba(127,127,127,.25); margin: 1.5rem 0; }
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,"Noto Sans","Helvetica Neue",Arial,sans-serif;line-height:1.6;margin:2rem;max-width:960px}
+    h1,h2{line-height:1.3}
+    hr{border:none;border-top:1px solid #ddd;margin:1.5rem 0}
+    .rule{letter-spacing:.2em;color:#777}
+    .cover{max-width:280px;border:1px solid #ddd;border-radius:6px}
+    .meta{color:#444}
+    .section-title{margin-top:1.25rem}
   </style>
-
-  <!-- JSON-LD: schema.org/Book (coerente con i dettagli editoriali 2025) -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Book",
-    "name": "BIG DATA ANALYTICS e AI per la PRODUTTIVITÀ AZIENDALE — Estrarre valore dai dati",
-    "bookEdition": "Seconda edizione aggiornata e ampliata",
-    "author": { "@type": "Person", "name": "Amedeo De Luca",
-      "sameAs": ["https://bit.ly/3ZxKnob","https://bit.ly/sito-adl"] },
-    "isbn": "9791223990650",
-    "inLanguage": "it",
-    "bookFormat": "EBook",
-    "numberOfPages": 200,
-    "publisher": { "@type": "Organization", "name": "StreetLib" },
-    "datePublished": "2025",
-    "image": "assets/copertina.jpg",
-    "genre": ["Data Science","Management","Tecnologie digitali"],
-    "about": ["Big Data","Analytics","Business Intelligence","Machine Learning","IA generativa","Industria 4.0","Industria 5.0","IoT","Cloud","Lakehouse","MLOps","Explainable AI","Decision Intelligence","Privacy","GDPR"],
-    "offers": { "@type": "Offer",
-      "url": "https://www.amazon.it/Big-Data-Analytics-Redditivit%C3%A0-Aziendale-ebook/dp/B0G5M2VH6V",
-      "availability": "https://schema.org/InStock" }
-  }
-  </script>
 </head>
 <body>
-  <header>
-    <!-- 1) Copertina in testa -->
-    <img src="assets/copertina.jpg"Titolo & sottotitolo -->
-    <h1>BIG DATA ANALYTICS e AI per la PRODUTTIVITÀ AZIENDALE</h1>
-    <p class="lead"><strong>Seconda edizione aggiornata e ampliata —</strong> <em>Estrarre valore dai dati</em></p>
 
-    <!-- Dati sintetici come da testata Word -->
-    <p class="small"><strong>Autore:</strong> Amedeo De Luca<br>
-    <strong>Editore:</strong> StreetLib · <strong>Anno:</strong> 2024 · <strong>Pagine:</strong> 200 · <strong>ISBN:</strong> 9791223990650</p>
+  <h1>BIG DATA ANALYTICS e AI per la PRODUTTIVITÀ AZIENDALE</h1>
+  <p><strong>Seconda edizione aggiornata e ampliata — Estrarre valore dai dati</strong></p>
 
-    <!-- 3) Link acquisto Amazon -->
-    <p><a class="button" href="https://www.amazon.it/Big-Data-Analytics-Redditivit%C3%A0-Aziendale-ebook/dp/B0G5M2VH6V" targeteader>
+  <p class="meta">Autore: Amedeo De Luca<br>
+    Editore: StreetLib &middot; Anno: 2024 &middot; Pagine: 200 &middot; ISBN: 9791223990650<br>
+    Acquista su Amazon:<br>
+    <a href="https://www.amazonata-Analytics-Redditivit%C3%A0-Aziendale-ebook/dp/B0G5M2VH6V
+      https://www.amazon.it/Big-Data-Analytics-Redditivit%C3%A0-Aziendale-ebook/dp/B0G5M2VH6V
+    </a>
+  </p>
 
-  <main role="main">
-    <hr class="sep" />
+  assets/copertina.jpg
 
-    <!-- Descrizione dell’opera -->
-    <section aria-labelledby="descrizione">
-      <h2 id="descrizione">Descrizione dell’opera</h2>
-      <p>L’opera, aggiornata e ampliata nella seconda edizione, guida l’impresa nella trasformazione data driven e AI driven: dall’evoluzione di database relazionali, Data Warehouse e OLAP a Data Mining e Advanced Analytics, integrati con Intelligenza Artificiale (Machine Learning, Deep Learning e IA generativa).</p>
-      <p>Il libro presenta architetture dati moderne (cloud, data lake/lakehouse, edge e streaming), principi di BI/DSS 4.0, MLOps ed Explainable AI, con casi d’uso (produttività, previsione, predizione e decision intelligence).</p>
-      <p>Il volume si caratterizza per rigore metodologico, completezza e chiarezza espositiva: dalla gerarchia degli analytics (descrittivo, predittivo, prescrittivo, cognitivo) al ciclo di vita dei modelli, per giungere a governance, qualità del dato, privacy (GDPR) e Responsible/Explainable AI.</p>
-    </section>
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Descrizione dell’opera</h2>
+  <p>L’opera, aggiornata e ampliata nella seconda edizione, guida l’impresa nella trasformazione data driven e AI driven: dall’evoluzione di database relazionali, Data Warehouse e OLAP a Data Mining e Advanced Analytics, integrati con Intelligenza Artificiale (Machine Learning, Deep Learning e IA generativa).</p>
+  <p>Il libro presenta architetture dati moderne (cloud, data lake/lakehouse, edge e streaming), principi di BI/DSS 4.0, MLOps ed Explainable AI, con casi d’uso (produttività, previsione, predizione e decision intelligence).</p>
+  <p>Il volume si caratterizza per rigore metodologico, completezza e chiarezza espositiva: dalla gerarchia degli analytics (descrittivo, predittivo, prescrittivo, cognitivo) al ciclo di vita dei modelli, per giungere a governance, qualità del dato, privacy (GDPR) e Responsible/Explainable AI.</p>
 
-    <hr class="sep" />
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Attualità dell’opera</h2>
+  <p>&bull; Competitività &amp; Produttività: vantaggio competitivo, riduzione dei costi, ottimizzazione dei processi e supply chain, manutenzione predittiva e personalizzazione di beni/servizi.<br>
+     &bull; Decisioni in tempo reale: edge &amp; streaming analytics per marketing, pricing dinamico, fraud detection e controllo operativo.<br>
+     &bull; Transizione verso Industria 5.0: sostenibilità, resilienza e centralità dell’uomo in sistemi intelligenti e collaborativi.</p>
 
-    <!-- Attualità dell’opera -->
-    <section aria-labelledby="attualita">
-      <h2 id="attualita">Attualità dell’opera</h2>
-      <ul>
-        <li>Competitività &amp; Produttività: vantaggio competitivo, riduzione dei costi, ottimizzazione dei processi e supply chain, manutenzione predittiva e personalizzazione di beni/servizi.</li>
-        <li>Decisioni in tempo reale: edge &amp; streaming analytics per marketing, pricing dinamico, fraud detection e controllo operativo.</li>
-        <li>Transizione verso Industria 5.0: sostenibilità, resilienza e centralità dell’uomo in sistemi intelligenti e collaborativi.</li>
-      </ul>
-    </section>
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Innovatività</h2>
+  <p>&bull; Architetture AI ready: cloud ibrido, lakehouse, MLOps, feature store, CI/CD dei modelli ed explainability (XAI).<br>
+     &bull; Pipeline end to end: ingestione multi fonte e modelli multimodali/generativi per insight e simulazioni what if.<br>
+     &bull; Integrazione uomo–macchina: DSS aumentati, BI 4.0, decisioni proattive e storytelling guidato dai dati.</p>
 
-    <hr class="sep" />
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Punti di forza</h2>
+  <p>1. Completezza: copertura dell’intero ciclo dati–modelli–decisioni con esempi reali e schemi operativi.<br>
+     2. Rigore: formalizzazione statistica, metodologie ML/DM, ottimizzazione e governance.<br>
+     3. Chiarezza: spiegazioni graduali, sinossi degli algoritmi, roadmap progettuali e best practice.<br>
+     4. Attualità: IA generativa, digital twin, edge/streaming, privacy/GDPR e trend di adozione.</p>
 
-    <!-- Innovatività -->
-    <section aria-labelledby="innovativita">
-      <h2 id="innovativita">Innovatività</h2>
-      <ul>
-        <li>Architetture AI ready: cloud ibrido, lakehouse, MLOps, feature store, CI/CD dei modelli ed explainability (XAI).</li>
-        <li>Pipeline end to end: ingestione multi fonte e modelli multimodali/generativi per insight e simulazioni what if.</li>
-        <li>Integrazione uomo–macchina: DSS aumentati, BI 4.0, decisioni proattive e storytelling guidato dai dati.</li>
-      </ul>
-    </section>
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Parole chiave</h2>
+  <p>Big Data, Analytics, Business Intelligence, DSS, Machine Learning, Deep Learning, IA generativa, Data Warehouse, Data Lake, Lakehouse, Cloud, Edge, Streaming, MLOps, Explainable AI, Industria 4.0, Industria 5.0, IoT, Digital Twin, Decision Intelligence, Privacy, GDPR.</p>
 
-    <hr class="sep" />
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Meta description (SEO)</h2>
+  <p>Guida rigorosa e completa a Big Data &amp; AI per la produttività aziendale, con architetture cloud/lakehouse, ML, IA generativa e Industria 5.0.</p>
 
-    <!-- Punti di forza -->
-    <section aria-labelledby="punti-di-forza">
-      <h2 id="punti-di-forza">Punti di forza</h2>
-      <ol>
-        <li>Completezza: copertura dell’intero ciclo dati–modelli–decisioni con esempi reali e schemi operativi.</li>
-        <li>Rigore: formalizzazione statistica, metodologie ML/DM, ottimizzazione e governance.</li>
-        <li>Chiarezza: spiegazioni graduali, sinossi degli algoritmi, roadmap progettuali e best practice.</li>
-        <li>Attualità: IA generativa, digital twin, edge/streaming, privacy/GDPR e trend di adozione.</li>
-      </ol>
-    </section>
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Dettagli editoriali</h2>
+  <p>Titolo: BIG DATA ANALYTICS e AI per la PRODUTTIVITÀ AZIENDALE — Estrarre valore dai dati<br>
+     Edizione: Seconda aggiornata e ampliata<br>
+     Autore: Amedeo De Luca<br>
+     Editore: StreetLib &middot; Anno: 2025<br>
+     Formato: eBook (Italiano)<br>
+     Pagine: 200<br>
+     ISBN: 9791223990650<br>
+     Categoria: Data Science &middot; Management &middot; Tecnologie digitali<br>
+     Acquisto: Amazon (link sopra)</p>
 
-    <hr class="sep" />
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Profilo autore</h2>
+  <p>Amedeo De Luca è uno dei massimi studiosi ed esperti di Analisi dei dati e modelli statistico-quantitativi per il management. Professore eccellente a contratto presso l’Università Cattolica di Milano (dove opera da oltre 40 anni nella didattica e ricerca). È stato Professore a contratto presso l’Università Bicocca di Milano; è stato Docente in varie università italiane e presso l’Università di Brasov (Romania). Autore di 32 volumi scientifici di Statistica metodologica ed applicata (numerosi best seller e seminali) e di un imponente numero di articoli scientifici, di rilevanza internazionale. È punto di riferimento nel mondo accademico e aziendale come metodologo,  data scientist, analista di dati quantitativi, di mercato e di management.</p>
 
-    <!-- Parole chiave -->
-    <section aria-labelledby="parole-chiave">
-      <h2 id="parole-chiave">Parole chiave</h2>
-      <div class="tags" role="list" aria-label="Parole chiave">
-        <span class="tag" role="listitem">Big Data</span>
-        <span class="tag" role="listitem">Analytics</span>
-        <span class="tag" role="listitem">Business Intelligence</span>
-        <span class="tag" role="listitem">DSS</span>
-        <span class="tag" role="listitem">Machine Learning</span>
-        <span class="tag" role="listitem">Deep Learning</span>
-        <span class="tag" role="listitem">IA generativa</span>
-        <span class="tag" role="listitem">Data Warehouse</span>
-        <span class="tag" role="listitem">Data Lake</span>
-        <span class="tag" role="listitem">Lakehouse</span>
-        <span class="tag" role="listitem">Cloud</span>
-        <span class="tag" role="listitem">Edge</span>
-        <span class="tag" role="listitem">Streaming</span>
-        <span class="tag" role="listitem">MLOps</span>
-        <span class="tag" role="listitem">Explainable AI</span>
-        <span class="tag" role="listitem">Industria 4.0</span>
-        <span class="tag" role="listitem">Industria 5.0</span>
-        <span class="tag" role="listitem">IoT</span>
-        <span class="tag" role="listitem">Digital Twin</span>
-        <span class="tag" role="listitem">Decision Intelligence</span>
-        <span class="tag" role="listitem">Privacy</span>
-        <span class="tag" role="listitem">GDPR</span>
-      </div>
-    </section>
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">Contatti autore</h2>
+  <p>Email: amedeo.deluca@unicatt.it<br>
+     LinkedIn: bit.ly/3ZxKnob<br>
+     Sito: bit.ly/sito-adl</p>
 
-    <hr class="sep" />
+  <p class="rule">________________________________________</p>
+  <h2 class="section-title">A chi si rivolge</h2>
+  <p>&bull; Imprenditori e manager<br>
+     &bull; Consulenti e professionisti di nuove tecnologie<br>
+     &bull; Ricercatori<br>
+         &bull; Studenti e docenti di economia e management<br>
+     &bull; Associazioni di categoria e policy maker</p>
 
-    <!-- Meta description (visibile) -->
-    <section aria-labelledby="meta-seo">
-      <h2 id="meta-seo">Meta description (SEO)</h2>
-      <blockquote>
-        Guida rigorosa e completa a Big Data &amp; AI per la produttività aziendale, con architetture cloud/lakehouse, ML, IA generativa e Industria 5.0.
-      </blockquote>
-    </section>
-
-    <hr class="sep" />
-
-    <!-- Dettagli editoriali -->
-    <section aria-labelledby="dettagli">
-      <h2 id="dettagli">Dettagli editoriali</h2>
-      <div class="meta">
-        <div><strong>Titolo</strong><br/>BIG DATA ANALYTICS e AI per la PRODUTTIVITÀ AZIENDALE — <em>Estrarre valore dai dati</em></div>
-        <div><strong>Edizione</strong><br/>Seconda aggiornata e ampliata</div>
-        <div><strong>Autore</strong><br/>Amedeo De Luca</div>
-        <div><strong>Editore · Anno</strong><br/>StreetLib · 2025</div>
-        <div><strong>Formato</strong><br/>eBook (Italiano)</div>
-        <div><strong>Pagine</strong><br/>200</div>
-        <div><strong>ISBN</strong><br/>9791223990650</div>
-        <div><strong>Categoria</strong><br/>Data Science · Management · Tecnologie digitali</div>
-        <div><strong>Acquisto</strong><br/><a href="https://www.amazon.it/Big-Data-Analytics-Redditivit%C3dale-ebook/dp/B0G5M2VH6VAmazon</a></div>
-      </div>
-    </section>
-
-    <hr class="sep" />
-
-    <!-- Profilo autore -->
-    <section aria-labelledby="autore">
-      <h2 id="autore">Profilo autore</h2>
-      <p>Amedeo De Luca è uno dei massimi studiosi ed esperti di Analisi dei dati e modelli statistico-quantitativi per il management. Professore eccellente a contratto presso l’Università Cattolica di Milano (dove opera da oltre 40 anni nella didattica e ricerca). È stato Professore a contratto presso l’Università Bicocca di Milano; è stato Docente in varie università italiane e presso l’Università di Brasov (Romania). Autore di 32 volumi scientifici di Statistica metodologica ed applicata (numerosi best seller e seminali) e di un imponente numero di articoli scientifici, di rilevanza internazionale. È punto di riferimento nel mondo accademico e aziendale come metodologo,  data scientist, analista di dati quantitativi, di mercato e di management.</p>
-    </section>
-
-    <hr class="sep" />
-
-    <!-- Contatti autore -->
-    <section aria-labelledby="contatti">
-      <h2 id="contatti">Contatti autore</h2>
-      <ul>
-        <li>Email: mailto:amedeo.deluca@unicatt.itamedeo.deluca@unicatt.it</a></li>
-        <li>LinkedIn: https://bit.ly/3ZxKnobbit.ly/3ZxKnob</a></li>
-        <li>Sito: https://bit.ly/sito-adlbit.ly/sito-adl</a></li>
-      </ul>
-    </section>
-
-    <hr class="sep" />
-
-    <!-- A chi si rivolge -->
-    <section aria-labelledby="target">
-      <h2 id="target">A chi si rivolge</h2>
-      <ul>
-        <li>Imprenditori e manager</li>
-        <li>Consulenti e professionisti di nuove tecnologie</li>
-        <li>Ricercatori</li>
-        <li>Studenti e docenti di economia e management</li>
-        <li>Associazioni di categoria e policy maker</li>
-      </ul>
-    </section>
-  </main>
-
-  <footer>
-    <p><strong>Compatibilità AI &amp; Accessibilità</strong>: struttura semantica, alt‑text, JSON‑LD <em>Book</em>, meta‑tag SEO, liste e titoli per parsing da sistemi di AI e motori di ricerca.</p>
-    <p>Immagine di copertina: posiziona il file in <code>big-data-analytics/assets/copertina.jpg</code>.</p>
-   </footer>
 </body>
