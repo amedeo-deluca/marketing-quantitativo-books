@@ -32,4 +32,9 @@ Ogni volume è presentato con cura editoriale, per assicurare un’esperienza di
 - Struttura modulare con sezioni e separatori per dare ritmo e chiarezza  
 - Tono professionale ma coinvolgente, con enfasi sugli obiettivi e sulla missione editoriale
   
-1. Analisi Dati - 2. Big data analytics - 3. Data Mining - 4. Business Intelligence - 5. Machine Learning -  6. Intelligenza Artificiale Marketing -  7. IA Predittiva - 8. Risk Management - 9. Excel per il Decision making - 10. CRM – 11. Ricerche e Analisi di mercato - 12. Controllo statistico Qualità - 13. Modelli di Management e di ottimizzazione - 14. Modelli di Marketing Quantitativo - 15. Modelli econometrici - 16. Direct Marketing Interattivo - 17. Modelli di Customer Satisfaction - 18.Modelli di Conjoint Analysis - 19. Programmazione ed Analisi degli Esperimenti - 20. Modello misurazione Efficacia Pubblicità - 21. Innovazione e Internazionalizzazione PMI – 22. Marketing bancario
+1. Analisi Dati - 2. Big data analytics - 3. Data Mining - 4. Business Intelligence - 5. Machine Learning -  6. Intelligenza Artificiale Marketing -  7. IA Predittiva - 8. Risk Management - 9. Excel per il Decision making - 10. CRM – 11. Ricerche e Analisi di mercato - 12. Controllo statistico Qualità - 13. Modelli di Management e di ottimizzazione - 14. Modelli di Marketing Quantitativo - 15. Modelli econometrici - 16. Direct Marketing Interattivo - 17. Modelli di Customer Satisfaction - 18.Modelli di Conjoint Analysis - 19. Programmazione ed Analisi degli Esperimenti - 20. Modello misurazione Efficacia Pubblicità - 21. Innovazione e Internazionalizzazione PMI – 22. Marketing bancario -
+23. **Business Intelligence e AI per il CRM Aziendale – Modelli per il Decision Making (2ª Edizione)**  
+   📁 business-intelligence-ai-crm/  
+   🖼️ business-intelligence-ai-crm/cover.jpg  
+   📘 https://www.amazon.it/dp/B0GJG79WWP
+
