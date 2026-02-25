@@ -14,8 +14,9 @@ README GitHub — 2ª Edizione
 # 📘 MANUALE DI MARKETING APPLICATO  e IA  
 ## Approcci multidimensionali per l’Analisi e le Decisioni Strategiche
 
+
 <p align="center">
-  <img src="COPERTINA-DEFINITIVAAAA_Ebook.png" width="420">
+  <img src="copertina-manuale-marketing-ia.png" width="420">
 </p>
 
 ---
