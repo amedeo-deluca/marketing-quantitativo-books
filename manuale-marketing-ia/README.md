@@ -72,8 +72,7 @@ Il volume propone strumenti concreti per trasformare i dati in **decisioni strat
 
 👉 **Disponibile su Amazon**
 
-🔗 https://www.amazon.it/s?k=Manuale+di+Marketing+Applicato+e+IA%3A+Approcci+multidimensionali+per+l%E2%80%99Analisi+e+le+Decisioni+strategiche
-
+**[Disponibile su Amazon](https://www.amazon.it/s?k=Manuale+di+Marketing+Applicato+e+IA%3A+Approcci+multidimensionali+per+l%E2%80%99Analisi+e+le+Decisioni+strategiche)**
 ---
 
 ## 🏢 Editore
