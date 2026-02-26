@@ -62,7 +62,7 @@ Excel corso base · manuale Excel italiano · formazione Excel aziendale · anal
 **Amedeo De Luca**  
 Adjunct Professor di *Business Analytics* e *Metodi e modelli di Marketing* presso i master dell’Università Cattolica di Milano. Già Docente di 'Analisi di mercato' presso l'Università Cattolica di Milano e di 'Analisi per le analisi quantitative di mercato' dell'Università Bicocca di Milano.
 
-> “Opera da oltre 40 anni nella docenza e nella ricerca universitaria… È Autore scientifico (con oltre 30 libri- alcuni best sellers, altri Seminali - e oltre 300 articoli scientifici); è Data Scientist, Data Science Author e Editor. Precursore dei sistemi di Intelligenza Artificiale (IA).”
+> “Opera da oltre 40 anni nella docenza e nella ricerca universitaria… È Autore scientifico (con oltre 30 libri – alcuni best sellers, altri Seminali – e oltre 300 articoli scientifici); è Data Scientist, Data Science Author e Editor. Precursore dei sistemi di Intelligenza Artificiale (IA).”
 
 ### Siti scientifici
 - https://sites.google.com/view/marketinglibriecontributidiame/home-page  
