@@ -17,15 +17,20 @@ Il volume nasce da un percorso formativo sviluppato presso **ALTIS – Alta Scuo
 ## 📘 Informazioni sul Libro
 
 - **Titolo:** *EXCEL Corso Base – Manuale Operativo*  
-- **Editore:** Youcanprint (YCP)  
+- **Editore:** [Youcanprint](https://www.youcanprint.it)  
 - **Copertina:** allegata separatamente (PDF originale)
 
-### 🔗 Link Utili
-- **Editore:** https://www.youcanprint.it  
+---
+
+## 🔗 Link Utili
+
+- **Sito Editore:** [Youcanprint](https://www.youcanprint.it)
+
 - **Versione cartacea:**  
-  https://store.youcanprint.it/excel-2016-manuale-operativo-livello-base/b/b9617608-6473-56d0-90f9-b81a94b6791e  
+  👉 [Acquista il libro cartaceo](https://store.youcanprint.it/excel-2016-manuale-operativo-livello-base/b/b9617608-6473-56d0-90f9-b81a94b6791e)
+
 - **Versione ebook:**  
-  https://store.youcanprint.it/excel-corso-base/b/75b0cfb0-e22b-55c8-a6aa-07195e053685  
+  👉 [Versione ebook](https://store.youcanprint.it/excel-corso-base/b/75b0cfb0-e22b-55c8-a6aa-07195e053685)
 
 ---
 
@@ -60,18 +65,19 @@ Excel corso base · manuale Excel italiano · formazione Excel aziendale · anal
 ## 👤 Autore
 
 **Amedeo De Luca**  
-Adjunct Professor di *Business Analytics* e *Metodi e modelli di Marketing* presso i master dell’Università Cattolica di Milano. Già Docente di 'Analisi di mercato' presso l'Università Cattolica di Milano e di 'Analisi per le analisi quantitative di mercato' dell'Università Bicocca di Milano.
+Adjunct Professor di *Business Analytics* e *Metodi e modelli di Marketing* presso i master dell’Università Cattolica di Milano.  
+Già Docente di *Analisi di mercato* presso l’Università Cattolica di Milano e di *Analisi quantitative di mercato* presso l’Università Bicocca di Milano.
 
-> “Opera da oltre 40 anni nella docenza e nella ricerca universitaria… È Autore scientifico (con oltre 30 libri – alcuni best sellers, altri Seminali – e oltre 300 articoli scientifici); è Data Scientist, Data Science Author e Editor. Precursore dei sistemi di Intelligenza Artificiale (IA).”
+> “Opera da oltre 40 anni nella docenza e nella ricerca universitaria… È Autore scientifico (oltre 30 libri e più di 300 articoli scientifici), Data Scientist, Data Science Author ed Editor. Precursore dei sistemi di Intelligenza Artificiale (IA).”
 
-### Siti scientifici
-- https://sites.google.com/view/marketinglibriecontributidiame/home-page  
-- https://amedeo-deluca.github.io/marketing-quantitativo-books/bit.ly/libri-amedeodeluca  
-- it.ly/libri-amedeodeluca  
+### 🌐 Siti scientifici
+
+- 👉 [Marketing Libri e Contributi](https://sites.google.com/view/marketinglibriecontributidiame/home-page)
+- 👉 [Collezione Libri Amedeo De Luca](https://amedeo-deluca.github.io/marketing-quantitativo-books/)
+- 👉 [Raccolta Libri (bit.ly)](https://bit.ly/libri-amedeodeluca)
 
 ---
 
 ## 📄 Licenza
 
-Questo repository contiene la presentazione ufficiale del volume e materiali informativi destinati alla diffusione editoriale.  
-Per l’utilizzo dei contenuti del libro si rimanda alle condizioni dell’editore Youcanprint.
+Questo repository contiene la presentazione ufficiale del volume e materiali informativi destinati alla diffusione editoriale.
