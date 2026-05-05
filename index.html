@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Libri di Amedeo De Luca</title>
+
   <style>
     body {
       font-family: "Segoe UI", Arial, sans-serif;
@@ -35,10 +36,13 @@
     }
 
     main {
+      padding: 2rem;
+    }
+
+    .books-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
       gap: 1.5rem;
-      padding: 2rem;
     }
 
     .card {
@@ -48,26 +52,34 @@
       padding: 1.5rem;
       text-align: center;
       transition: 0.2s ease;
+      height: 100%;
     }
+
     .card:hover {
       transform: translateY(-5px);
       box-shadow: 0 8px 16px rgba(0,0,0,0.15);
     }
+
     .card img {
       width: 130px;
+      height: 180px;
+      object-fit: contain;
       border-radius: 6px;
       margin-bottom: 1rem;
     }
+
     .card h2 {
       font-size: 1.1rem;
       color: #2c3e50;
       margin-bottom: 0.8rem;
     }
+
     .card a {
       color: #0066cc;
       text-decoration: none;
       font-weight: bold;
     }
+
     .card a:hover { text-decoration: underline; }
 
     footer {
@@ -79,6 +91,7 @@
     }
   </style>
 </head>
+
 <body>
 
   <nav>
@@ -93,101 +106,103 @@
   </header>
 
   <main>
-<div class="books-grid">
-    <!-- CRM -->
-    <div class="card">
-      <a href="crm/index.html">
-        <img src="crm/copertina_crm.jpg" alt="CRM">
-        <h2>CRM- CUSTOMER RELATIONSHIP MANAGEMENT per la REDDITIVITÀ dell'IMPRESA – Manuale Operativo</h2>
-      </a>
-    </div>
-    
+    <div class="books-grid">
 
-</div>
-<div class="card">
-  <a href="manuale-marketing-ia/">
-    <img src="manuale-marketing-ia/copertina-manuale-marketing-ia.png" alt="Manuale di Marketing Applicato e IA">
-    <h2>Manuale di Marketing Applicato e IA</h2>
-  </a>
+      <div class="card">
+        <a href="crm/index.html">
+          <img src="crm/copertina_crm.jpg" alt="CRM">
+          <h2>CRM - Customer Relationship Management per la redditività d'impresa</h2>
+        </a>
+      </div>
 
-<!-- EXCEL Base --> <div class="card"> <a href="excel-base/index.html"> <img src="excel-base/copertina-excel-base.jpg" alt="Excel Base – Manuale Operativo"> <h2>EXCEL BASE – Manuale Operativo</h2> </a> </div>
-    
-    <!-- EXCEL Analisi Dati -->
-    <div class="card">
-      <a href="excel-analisi-dati/index.html">
-        <img src="excel-analisi-dati/copertina-analisi-dati.jpg" alt="Excel Analisi Dati">
-        <h2>EXCEL per ANALISI DATI nel MARKETING APPLICATO</h2>
-      </a>
-    </div>
+      <div class="card">
+        <a href="manuale-marketing-ia/">
+          <img src="manuale-marketing-ia/copertina-manuale-marketing-ia.png" alt="Marketing IA">
+          <h2>Manuale di Marketing Applicato e IA</h2>
+        </a>
+      </div>
 
-    <!-- EXCEL Avanzato -->
-    <div class="card">
-      <a href="excel-avanzato/index.html">
-        <img src="excel-avanzato/copertina-excel-avanzato.jpg" alt="Excel Avanzato">
-        <h2>EXCEL LIVELLO AVANZATO – Analisi dei Dati</h2>
-      </a>
-    </div>
+      <div class="card">
+        <a href="excel-base/index.html">
+          <img src="excel-base/copertina-excel-base.jpg" alt="Excel Base">
+          <h2>Excel Base – Manuale Operativo</h2>
+        </a>
+      </div>
 
-    <!-- Business Intelligence e AI per il CRM -->
-    <div class="card">
-      <a href="business-intelligence-ai-crm/index.html">
-        <img src="business-intelligence-ai-crm/copertina-crm-ai.jpg" alt="BUSINESS INTELLIGENCE per il CRM Aziendale">          
-        <h2>BUSINESS INTELLIGENCE e AI per il CRM Aziendale</h2>
-      </a>
-    </div>
+      <div class="card">
+        <a href="excel-analisi-dati/index.html">
+          <img src="excel-analisi-dati/copertina-analisi-dati.jpg" alt="Excel Analisi Dati">
+          <h2>Excel per Analisi Dati nel Marketing</h2>
+        </a>
+      </div>
 
-    <!-- EXCEL Corso Base -->
-    <div class="card">
-      <a href="excel-corso-base/index.html">
-        <img src="excel-corso-base/copertina-excel-base.jpg" alt="Excel Base">
-        <h2>EXCEL CORSO BASE – Manuale Operativo</h2>
-      </a>
-    </div>
+      <div class="card">
+        <a href="excel-avanzato/index.html">
+          <img src="excel-avanzato/copertina-excel-avanzato.jpg" alt="Excel Avanzato">
+          <h2>Excel Livello Avanzato – Analisi Dati</h2>
+        </a>
+      </div>
 
-    <!-- EXCEL Intermedio -->
-    <div class="card">
-      <a href="excel-intermedio/index.html">
-        <img src="excel-intermedio/copertina-excel-intermedio.jpg" alt="Excel Intermedio">
-        <h2>EXCEL LIVELLO INTERMEDIO – Come Elaborare i Dati</h2>
-      </a>
-    </div>
+      <div class="card">
+        <a href="business-intelligence-ai-crm/index.html">
+          <img src="business-intelligence-ai-crm/copertina-crm-ai.jpg" alt="BI CRM">
+          <h2>Business Intelligence e AI per il CRM</h2>
+        </a>
+      </div>
 
-    <!-- PMI Italiane -->
-    <div class="card">
-      <a href="pmi-italiane/index.html">
-        <img src="pmi-italiane/copertina-pmi.jpg" alt="PMI Italiane">
-        <h2>PMI ITALIANE – INNOVAZIONE, DIGITALIZZAIONE, AI, INTERNAZIONALIZZAZIONE</h2>
-      </a>
+      <div class="card">
+        <a href="excel-corso-base/index.html">
+          <img src="excel-corso-base/copertina-excel-base.jpg" alt="Excel Corso Base">
+          <h2>Excel Corso Base – Manuale Operativo</h2>
+        </a>
+      </div>
+
+      <div class="card">
+        <a href="excel-intermedio/index.html">
+          <img src="excel-intermedio/copertina-excel-intermedio.jpg" alt="Excel Intermedio">
+          <h2>Excel Intermedio – Elaborazione Dati</h2>
+        </a>
+      </div>
+
+      <div class="card">
+        <a href="pmi-italiane/index.html">
+          <img src="pmi-italiane/copertina-pmi.jpg" alt="PMI Italiane">
+          <h2>PMI Italiane – Innovazione e AI</h2>
+        </a>
+      </div>
+
+      <div class="card">
+        <a href="big-data/index.html">
+          <img src="big-data/copertina.jpg" alt="Big Data CRM">
+          <h2>Big Data, CRM, Risk Management</h2>
+        </a>
+      </div>
+
+      <div class="card">
+        <a href="ricerche-mercato/index.html">
+          <img src="ricerche-mercato/copertina.jpg" alt="Ricerche di Mercato">
+          <h2>Ricerche di Mercato – Approcci Innovativi</h2>
+        </a>
+      </div>
+
+      <div class="card">
+        <a href="big-data-analytics/index.html">
+          <img src="big-data-analytics/copertina.jpg" alt="Big Data Analytics">
+          <h2>Big Data Analytics e AI – Produttività Aziendale</h2>
+        </a>
+      </div>
+
+      <div class="card">
+        <a href="excel2026/index.html">
+          <img src="excel2026/copertina.png" alt="Excel 2026">
+          <h2>Excel Avanzato 2026 con AI e Automazione</h2>
+        </a>
+      </div>
+
     </div>
- <!-- Big Data, CRM, Risk Management -->
-<div class="card">
-  <a href="big-data/index.html">
-    <img src="big-data/copertina.jpg" alt="Copertina del libro BIG DATA, CRM, RISK MANAGEMENT">
-    <h2>BIG DATA, CRM, RISK MANAGEMENT – Applicazioni nel Bancario, Finanziario, Assicurativo</h2>
-  </a>
-</div><div class="card">
-  <a href="ricerche-mercato/index.html">
-    <img src="ricerche-mercato/copertina.jpg" alt="Copertina del libro Ricerche di Mercato – Le Pratiche Eccellenti, Gli Approcci Innovativi">
-    <h2>RICERCHE DI MERCATO – Le Pratiche Eccellenti, Gli Approcci Innovativi</h2>
-  </a>
-</div>
-  <!-- BIG DATA ANALYTICS e AI – Seconda edizione -->
-<div class="card">
-   <a href="big-data-analytics/index.html">
-     <img src="big-data-analytics/copertina.jpg" alt="Copertina del libro BIG DATA ANALYTICS e AI per la PRODUTTIVITA' AZIENDALE">
-          <h2>BIG DATA ANALYTICS e AI per la PRODUTTIVITÀ AZIENDALE – Estarre valore dai dati</h2>
-  </a>
-</div>
-<!-- EXCEL AVANZATO – Edizione 2026 -->
-<div class="card">
-  <a href="excel2026/index.html">
-    <img src="excel2026/0.IMMAGINE POTENZIATA_2108x2984_tansformed (2).png" alt="Excel avanzato – Edizione 2026">
-  </a>
-  <h2>Excel avanzato – Edizione 2026 con IA e automazione</h2>
-</div> <!-- chiusura ultima card -->
-</div> <!-- chiusura books-grid -->
-</main>
-<footer>
+  </main>
+
+  <footer>
     © 2025 Amedeo De Luca – Tutti i diritti riservati
   </footer>
 
