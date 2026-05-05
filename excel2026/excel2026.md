@@ -4,7 +4,7 @@
 ---
 
 ## 🖼️ Copertina
-![Copertina libro](https://raw.githubusercontent.com/amedeo-deluca/marketing-quantitativo-books/main/excel2026/0.IMMAGINE%20POTENZIATA_2108x2984_tansformed%20(2).png)
+<img src="https://raw.githubusercontent.com/amedeo-deluca/marketing-quantitativo-books/main/excel2026/0.IMMAGINE%20POTENZIATA_2108x2984_tansformed%20(2).png" width="300">
 
 ---
 
