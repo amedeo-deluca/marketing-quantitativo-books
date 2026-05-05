@@ -10,7 +10,7 @@
 
 ## 📚 Ebook
 👉 Disponibile su Amazon:  
-INSERIRE_LINK_AMAZON
+[INSERIRE_LINK_AMAZON](https://www.amazon.it/dp/B0GZG3RJKG/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1X7VUF399G3OJ&dib=eyJ2IjoiMSJ9.ICR8zgUcMFActDy8u-P4TBnfpJzRa1by2T77oyls86-GTR8ZwL4GbLRizz-ePYBBk7fxUu13-KmgrVVNNu_XglPCGcZlBOVXSviGEcy97fQqIwVTvpmJtdTWk_u9Ya_UOaYtwygLR4PWCdSJdE0SFXMGjHNhqkr0kN1re0wmXxUGyhBmlAorIR4oVLP_k3dPGcpLX4y0xISEI9norSJF-7MYEkPJZTQWAe7FEzRI0CFeDbxNlpW4hGFl6SH_O177ywuzL9WMXgBiQCPZDtrxg9w9blH5unnCpQ38Z1WTUF0.xJGwokpw8xlD8alJiN2s7ezECqODWx09KktP63-UbBM&dib_tag=se&keywords=Excel+avanzato+Edizione+2026&qid=1777910761&sprefix=excel+avanzato+edizione+2026%2Caps%2C129&sr=8-1)
 
 📦 La versione cartacea sarà disponibile su Amazon e presso Youcanprint.
 
