@@ -14,15 +14,29 @@
 </header>
 
 <main>
-  <iframe 
-  src="excel2026.md" 
-  style="width:100%; height:1800px; border:none; zoom:1.5; transform: scale(1.2); transform-origin: top left;">
-</iframe>
+  <div id="md-content">
+    Caricamento in corso...
+  </div>
 </main>
 
 <footer>
   <p>© 2025 Amedeo De Luca – Tutti i diritti riservati</p>
 </footer>
+
+<!-- Libreria Markdown -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<script>
+  fetch('excel2026.md')
+    .then(response => response.text())
+    .then(text => {
+      document.getElementById('md-content').innerHTML = marked.parse(text);
+    })
+    .catch(error => {
+      document.getElementById('md-content').innerHTML = 'Errore nel caricamento del contenuto.';
+      console.error(error);
+    });
+</script>
 
 </body>
 </html>
